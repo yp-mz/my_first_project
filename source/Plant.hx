@@ -1,9 +1,6 @@
 package;
 
-import flixel.FlxG;
 import flixel.FlxSprite;
-import flixel.FlxState;
-import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.math.FlxRandom;
 import flixel.util.FlxTimer;
 
@@ -319,19 +316,11 @@ class Plant extends FlxSprite
 				var i = new FlxRandom().int(1, 2);
 				var type = ['com', 'butter'];
 				animation.play('throw$i');
-				var bullet = new Thing(x, y, 'throw', type[i - 1], state);
+				new Thing(x, y, 'throw', type[i - 1], state);
 				new FlxTimer().start(cd, function(tmr:FlxTimer)
 				{
 					isWorking = false;
 				});
-		}
-	}
-
-	function getPlantType(num:Int)
-	{
-		switch (num)
-		{
-			case 1:
 		}
 	}
 }
