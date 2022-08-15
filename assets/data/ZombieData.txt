@@ -1,0 +1,6 @@
+1-1
+normal,2,3,slow;cone;nromal,,5,fast
+normal,cone,bucket;4,2,1
+
+1-2
+normal,2,3,fast;cone;nromal,,5

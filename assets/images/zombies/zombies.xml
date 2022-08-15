@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zombies.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zombie0000" x="0" y="0" width="78" height="121" frameX="-5" frameY="-9" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0001" x="78" y="0" width="76" height="122" frameX="-6" frameY="-8" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0002" x="154" y="0" width="74" height="123" frameX="-6" frameY="-7" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0003" x="228" y="0" width="72" height="124" frameX="-7" frameY="-6" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0004" x="300" y="0" width="69" height="124" frameX="-8" frameY="-6" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0005" x="369" y="0" width="67" height="125" frameX="-9" frameY="-5" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0006" x="436" y="0" width="64" height="126" frameX="-10" frameY="-4" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0007" x="500" y="0" width="61" height="127" frameX="-12" frameY="-3" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0008" x="561" y="0" width="62" height="128" frameX="-13" frameY="-2" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0009" x="623" y="0" width="61" height="128" frameX="-14" frameY="-2" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0010" x="684" y="0" width="62" height="129" frameX="-14" frameY="-1" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0011" x="746" y="0" width="64" height="129" frameX="-13" frameY="-1" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0012" x="810" y="0" width="64" height="130" frameX="-13" frameY="0" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0013" x="874" y="0" width="65" height="129" frameX="-14" frameY="-1" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0014" x="939" y="0" width="67" height="128" frameX="-14" frameY="-2" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0015" x="0" y="130" width="68" height="127" frameX="-14" frameY="-3" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0016" x="68" y="130" width="71" height="126" frameX="-13" frameY="-4" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0017" x="139" y="130" width="73" height="123" frameX="-10" frameY="-7" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0018" x="212" y="130" width="76" height="121" frameX="-6" frameY="-9" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0019" x="288" y="130" width="79" height="119" frameX="-3" frameY="-11" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0020" x="367" y="130" width="80" height="119" frameX="-1" frameY="-11" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0021" x="447" y="130" width="79" height="119" frameX="0" frameY="-11" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0022" x="526" y="130" width="76" height="119" frameX="0" frameY="-11" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0023" x="602" y="130" width="74" height="121" frameX="0" frameY="-9" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0024" x="676" y="130" width="72" height="123" frameX="-1" frameY="-7" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0025" x="748" y="130" width="69" height="124" frameX="-3" frameY="-6" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0026" x="817" y="130" width="67" height="124" frameX="-4" frameY="-6" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0027" x="884" y="130" width="65" height="125" frameX="-6" frameY="-5" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0028" x="949" y="130" width="64" height="126" frameX="-8" frameY="-4" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0029" x="0" y="257" width="64" height="127" frameX="-11" frameY="-3" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0030" x="64" y="257" width="65" height="127" frameX="-13" frameY="-3" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0031" x="129" y="257" width="65" height="127" frameX="-15" frameY="-2" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0032" x="194" y="257" width="65" height="128" frameX="-18" frameY="-1" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0033" x="259" y="257" width="66" height="128" frameX="-18" frameY="-1" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0034" x="325" y="257" width="67" height="129" frameX="-18" frameY="0" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0035" x="392" y="257" width="68" height="129" frameX="-19" frameY="0" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0036" x="460" y="257" width="71" height="129" frameX="-17" frameY="0" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0037" x="531" y="257" width="75" height="126" frameX="-15" frameY="-3" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0038" x="606" y="257" width="80" height="125" frameX="-11" frameY="-4" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0039" x="686" y="257" width="86" height="123" frameX="-6" frameY="-6" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0040" x="772" y="257" width="90" height="122" frameX="-3" frameY="-7" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0041" x="862" y="257" width="89" height="121" frameX="-3" frameY="-8" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0042" x="0" y="386" width="88" height="120" frameX="-3" frameY="-8" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0043" x="88" y="386" width="86" height="120" frameX="-4" frameY="-8" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0044" x="174" y="386" width="84" height="120" frameX="-4" frameY="-8" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0045" x="258" y="386" width="80" height="120" frameX="-5" frameY="-9" frameWidth="93" frameHeight="130"/>
+	<SubTexture name="zombie0046" x="338" y="386" width="78" height="121" frameX="-5" frameY="-9" frameWidth="93" frameHeight="130"/>
+</TextureAtlas>

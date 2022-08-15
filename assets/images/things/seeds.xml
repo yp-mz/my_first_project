@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seeds.png">
+	<SubTexture name="card1 0000" x="0" y="0" width="50" height="70"/>
+	<SubTexture name="card2 0000" x="50" y="0" width="50" height="70"/>
+	<SubTexture name="card3 0000" x="100" y="0" width="50" height="70"/>
+	<SubTexture name="card4 0000" x="150" y="0" width="50" height="70"/>
+	<SubTexture name="card5 0000" x="200" y="0" width="50" height="70"/>
+	<SubTexture name="card6 0000" x="250" y="0" width="50" height="70"/>
+	<SubTexture name="card7 0000" x="300" y="0" width="50" height="70"/>
+	<SubTexture name="card8 0000" x="350" y="0" width="50" height="70"/>
+	<SubTexture name="card9 0000" x="400" y="0" width="50" height="70"/>
+</TextureAtlas>
